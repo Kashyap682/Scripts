@@ -1,0 +1,456 @@
+: 1690555655:0;wifi
+: 1690555656:0;clear
+: 1690555659:0;neofetch
+: 1690535978:0;ping google.com
+: 1690535983:0;clear
+: 1690535984:0;exit
+: 1690536336:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690536396:0;exit
+: 1690536440:0;neofetcj
+: 1690536442:0;neofetch
+: 1690536444:0;clear
+: 1690536445:0;exigt
+: 1690536447:0;exit
+: 1690536491:0;sudo pacman -Syu
+: 1690537660:0;clear
+: 1690537918:0;sudo pacman -S reflector
+: 1690538051:0;sudo reflector --country India
+: 1690538105:0;sudo reflector --country India --age 12 --protocol https --sort rate --save /etc/pacman.d/mirrorlist
+: 1690538146:0;sudo reflector --country India --protocol https --sort rate --save /etc/pacman.d/mirrorlist
+: 1690538181:0;cat /etc/pacman.d/mirrorlist
+: 1690538195:0;sudo pacman -Sy
+: 1690538199:0;sudo pacman -Syu
+: 1690539501:0;exit
+: 1690541163:0;nano /etc/xdg/reflector/reflector.conf
+: 1690541181:0;sudo nano /etc/xdg/reflector/reflector.conf
+: 1690541219:0;reflector
+: 1690541252:0;cat /etc/pacman.d/mirrorlist
+: 1690541257:0;clear
+: 1690541261:0;sudo pacman -Syu
+: 1690541998:0;reboot
+: 1690542554:0;exit
+: 1690542622:0;sudo pacman -S google-chrome
+: 1690542627:0;clear
+: 1690542632:0;sudo pacman -S spotify
+: 1690542640:0;sudo pacman -S discord
+: 1690542698:0;clear
+: 1690542741:0;yay
+: 1690542762:0;yay -S pamac-aur
+: 1690542957:0;clear
+: 1690543032:0;yay -S google-chrome
+: 1690543241:0;exit
+: 1690543253:0;sudo pacman -S spotify-launcher
+: 1690544629:0;cd '/home/polter/.config/plank/dock1/launchers'
+: 1690544634:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690544660:0;cd '/home/polter/.config/plank/dock1/launchers'
+: 1690616285:0;yay -S brave-bin
+: 1690618479:0;sudo pacman -S onlyoffice
+: 1690618491:0;exit
+: 1690618563:0;yay -S onlyoffice
+: 1690620809:0;exit
+: 1690622233:0;yay -S onlyoffice
+: 1690622293:0;cd '/home/polter/.config/openbox-themes/themes/easy'
+: 1690622341:0;clear
+: 1690622344:0;exit
+: 1690623488:0;cd '/home/polter/.config'
+: 1690623497:0;cd '/home/polter/.config/openbox-themes/themes/easy'
+: 1690623498:0;cd '/home/polter/.config'
+: 1690623525:0;cd '/home/polter/.config/openbox'
+: 1690623538:0;cd '/home/polter/.config'
+: 1690623545:0;cd '/home/polter/.config/openbox'
+: 1690623547:0;cd '/home/polter/.config'
+: 1690623565:0;cd '/home/polter/.config/openbox-themes/themes/easy'
+: 1690623622:0;cd '/home/polter/.config'
+: 1690623646:0;cd '/home/polter/.config/openbox'
+: 1690623666:0;cd '/home/polter/.config'
+: 1690623699:0;picom-jonahburg
+: 1690623702:0;clear
+: 1690623704:0;exit
+: 1690623787:0;yay -S picom-jonaburg-git
+: 1690623924:0;clear
+: 1690623926:0;exit
+: 1690624080:0;picom
+: 1690624089:0;clear
+: 1690624102:0;cd '/home/polter/.config/openbox'
+: 1690624134:0;exit
+: 1690624157:0;plank
+: 1690624199:0;killall plank
+: 1690624203:0;plank
+: 1690624213:0;exit
+: 1690624249:0;cd '/home/polter/.config'
+: 1690624585:0;cd '/run/media/polter/New Volume/openbox_backup/.config'
+: 1690624606:0;cd '/home/polter/.config'
+: 1690624610:0;cd '/run/media/polter/New Volume/openbox_backup/.config'
+: 1690624611:0;cd '/home/polter/.config'
+: 1690624877:0;sudo pacman -S picom
+: 1690624889:0;clear
+: 1690624892:0;exit
+: 1690624953:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690625052:0;yay -S picom-jonaburg-git
+: 1690625085:0;clear
+: 1690625087:0;exit
+: 1690625096:0;cd '/home/polter/.config'
+: 1690625333:0;sudo pacman -S picom
+: 1690625408:0;clear
+: 1690625409:0;exit
+: 1690625493:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690625718:0;yay -S ttf-mplus-git
+: 1690626270:0;killall polybar
+: 1690626275:0;polybar&
+: 1690626281:0;exit
+: 1690626549:0;clear
+: 1690627265:0;yay -R ttf-mplus-git
+: 1690627382:0;yay -S noto-fonts
+: 1690627539:0;yay -S noto-fonts-emoji
+: 1690627604:0;yay -S noto-fonts-cjk
+: 1690628260:0;cd '/run/media/polter/New Volume/windows backup 01-01-2023'
+: 1690628263:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690628271:0;clear
+: 1690628273:0;exit
+: 1690629698:0;sudo pacman -S python-pywal
+: 1690629806:0;wal
+: 1690629860:0;wal -b wallpaper.png
+: 1690629866:0;wal -i wallpaper.png
+: 1690629883:0;wal
+: 1690629902:0;wal -i wallpaper
+: 1690629926:0;neofetch
+: 1690629928:0;exit
+: 1690630134:0;cd '/home/polter/.config/openbox-themes/themes/easy'
+: 1690630289:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690630839:0;cd '/home/polter/Documents'
+: 1690630843:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690630984:0;wal -i wallpaper
+: 1690631019:0;cd '/home/polter/.cache/wal'
+: 1690631024:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690631041:0;cd '/home/polter/.cache/wal'
+: 1690631048:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690631049:0;cd '/home/polter/.cache/wal'
+: 1690631051:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690631052:0;cd '/home/polter/.cache/wal'
+: 1690631057:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690631061:0;cd '/home/polter/.cache/wal'
+: 1690631066:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690631070:0;cd '/home/polter/.cache/wal'
+: 1690631075:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690631104:0;cd '/home/polter/.cache/wal'
+: 1690631117:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690631136:0;cd '/home/polter/.cache/wal'
+: 1690631141:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690631149:0;cd '/home/polter/.cache/wal'
+: 1690631155:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690631187:0;cd '/home/polter/.cache/wal'
+: 1690631196:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690631230:0;cd '/home/polter/.cache/wal'
+: 1690631232:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690631236:0;cd '/home/polter/.cache/wal'
+: 1690631242:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690631291:0;cd '/home/polter/.cache/wal'
+: 1690631299:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690631335:0;cd '/home/polter/.cache/wal'
+: 1690631339:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690631343:0;cd '/home/polter/.cache/wal'
+: 1690631350:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690631359:0;cd '/home/polter/.cache/wal'
+: 1690631366:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690631373:0;cd '/home/polter/.cache/wal'
+: 1690631379:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690631386:0;cd '/home/polter/.cache/wal'
+: 1690631394:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690631410:0;cd '/home/polter/.cache/wal'
+: 1690631417:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690631423:0;cd '/home/polter/.cache/wal'
+: 1690631429:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690631434:0;cd '/home/polter/.cache/wal'
+: 1690631440:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690631448:0;cd '/home/polter/.cache/wal'
+: 1690631453:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690631614:0;cd '/home/polter/.cache/wal'
+: 1690631615:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690631758:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar/scripts'
+: 1690631765:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690631775:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar/scripts'
+: 1690631788:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690631831:0;cd '/home/polter/.config/openbox'
+: 1690631918:0;htop
+: 1690632000:0;chrome
+: 1690632007:0;google-chome-stable
+: 1690632012:0;google-chrome-stable
+: 1690632164:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690632631:0;cd '/home/polter/.config/openbox'
+: 1690632723:0;cd '/home/polter/.config/openbox-themes/themes/easy'
+: 1690632766:0;cd '/home/polter/.config/openbox'
+: 1690632768:0;cd '/home/polter/.config/openbox-themes/themes/easy'
+: 1690633025:0;yay -S whatsapp-for-linux
+: 1690633089:0;clear
+: 1690633090:0;exit
+: 1690633220:0;sudo pacman -S conky
+: 1690633229:0;clear
+: 1690633231:0;exit
+: 1690633321:0;chmod +x *
+: 1690633331:0;ls
+: 1690633333:0;exit
+: 1690633339:0;chmod +x *
+: 1690633341:0;ls
+: 1690633344:0;ls -a
+: 1690633347:0;ls -l
+: 1690633358:0;chmod +x *
+: 1690633360:0;ls -l
+: 1690633372:0;conky
+: 1690633379:0;exit
+: 1690633403:0;start.sh
+: 1690633409:0;bash start.sh
+: 1690633433:0;cd '/home/polter/.config/conky/Eltanin'
+: 1690633450:0;killall conky
+: 1690633466:0;bash start.sh
+: 1690633491:0;sudo pacman -S playerctl
+: 1690633499:0;clear
+: 1690633504:0;killall conky
+: 1690633544:0;bash start.sh
+: 1690633726:0;cd '/run/media/polter/New Volume/windows backup 01-01-2023'
+: 1690633728:0;cd '/home/polter/.config/conky/Eltanin'
+: 1690633825:0;killall conky
+: 1690633826:0;exit
+: 1690633838:0;bash start.sh
+: 1690633962:0;exit
+: 1690634004:0;bash start.sh
+: 1690634288:0;clear
+: 1690634289:0;bash start.sh
+: 1690634379:0;exit
+: 1690634429:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690634436:0;cd '/home/polter/.config/conky/Eltanin'
+: 1690634458:0;bash start.sh
+: 1690634951:0;sudo pacman -S xdotool
+: 1690634994:0;cd '/home/polter/Documents'
+: 1690635018:0;xprop WM_CLASS
+: 1690635053:0;sudo pacman -S cava
+: 1690635059:0;cava
+: 1690635064:0;exit
+: 1690635102:0;cd '/home/polter/.config/conky/Eltanin'
+: 1690635130:0;cd '/home/polter/Documents'
+: 1690635146:0;chmod +x start.sh
+: 1690635151:0;bash start.sh
+: 1690635194:0;cd '/home/polter/.config/conky/Eltanin'
+: 1690635267:0;chmod +x start.sh
+: 1690635269:0;bash start.sh
+: 1690635415:0;exit
+: 1690635545:0;sudo pacman -S tmux
+: 1690635553:0;clear
+: 1690635554:0;exit
+: 1690635592:0;cd '/home/polter/Documents'
+: 1690635642:0;chmod +x cava_conky.sh
+: 1690635644:0;clear
+: 1690635657:0;conky -c conky_cava.conf\
+
+: 1690635968:0;cd '/run/media/polter/New Volume/openbox_backup/Scripts'
+: 1690636002:0;chmod +x visualize.sh
+: 1690636007:0;chmod +x player-mpris-simple.sh
+: 1690636008:0;cd '/home/polter/Documents'
+: 1690636041:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690636067:0;cd '/run/media/polter/New Volume/openbox_backup/.config/openbox/polybar/adaptive'
+: 1690636076:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690636111:0;cd '/run/media/polter/New Volume/openbox_backup/.config/openbox/polybar/default'
+: 1690636120:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690636620:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar/scripts'
+: 1690636628:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690636795:0;cd '/home/polter/.config/neofetch'
+: 1690636872:0;neofetch
+: 1690636965:0;yay -S pfetch
+: 1690637018:0;pfetch
+: 1690637021:0;clear
+: 1690637022:0;pfetch
+: 1690637030:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690637047:0;cd '/home/polter'
+: 1690637248:0;bash visualize.sh
+: 1690637280:0;cd '/home/polter/Documents'
+: 1690637304:0;cava -help
+: 1690637318:0;cd '/home/polter/.config/cava'
+: 1690637365:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690637372:0;cd '/home/polter/.config/cava'
+: 1690637380:0;cd '/home/polter/Documents'
+: 1690637416:0;bash visualize.sh
+: 1690637432:0;exit
+: 1690637462:0;wal
+: 1690637465:0;clear
+: 1690637472:0;pfetch
+: 1690637505:0;pfetch -help
+: 1690637509:0;clear
+: 1690637641:0;ranger
+: 1690637998:0;bash visualize.sh
+: 1690638002:0;exit
+: 1690638034:0;bash visualize.sh
+: 1690638292:0;cat /etc/hostname
+: 1690638310:0;cat /etc/hosts
+: 1690638327:0;sudo nano /etc/hostname
+: 1690638490:0;sudo nano /etc/hosts
+: 1690638507:0;clear
+: 1690638511:0;cat /etc/hostname
+: 1690638515:0;cat /etc/hosts
+: 1690638521:0;exit
+: 1690638614:0;cd '/home/polter/.config/openbox-themes/themes/easy'
+: 1690638619:0;cd '/home/polter/Documents'
+: 1690638622:0;cd '/home/polter/.config/openbox-themes/themes/easy'
+: 1690638650:0;cd '/home/polter/.config/openbox'
+: 1690638658:0;cd '/home/polter/.config/openbox-themes/themes/easy'
+: 1690638700:0;cd '/home/polter/.config/openbox'
+: 1690638989:0;cd '/home/polter/.config/spotify'
+: 1690638991:0;cd '/home/polter/.config/openbox'
+: 1690639076:0;yay -S spicetify-cli
+: 1690639364:0;sudo pacman -R spotify-launcher
+: 1690639386:0;sudo pacman -R spotify
+: 1690639388:0;exit
+: 1690639446:0;sudo pacman -R spotify-launcher
+: 1690639452:0;exit
+: 1690639470:0;yay -S spotify
+: 1690639597:0;clear
+: 1690639599:0;exit
+: 1690639843:0;./spicetify backup apply enable-devtool
+: 1690639949:0;sudo ./spicetify backup apply enable-devtool
+: 1690639965:0;cd '/home/polter/.config/spotify'
+: 1690639980:0;exit
+: 1690639992:0;cd '/home/polter/.config/spicetify'
+: 1690640057:0;git clone https://github.com/spicetify/spicetify-themes.git
+: 1690640410:0;clear
+: 1690640412:0;yay -S spotify-tui
+: 1690640770:0;clear
+: 1690640858:0;spt
+: 1690640935:0;cd '/run/media/polter/New Volume/windows backup 01-01-2023'
+: 1690641109:0;spt
+: 1690641211:0;cd '/home/polter/.config/spotify-tui'
+: 1690641345:0;spt
+: 1690641426:0;sudo pacman -S spotifyd
+: 1690641437:0;clear
+: 1690641467:0;yay -R spotify
+: 1690641470:0;clear
+: 1690641473:0;spotifyd
+: 1690641520:0;spotifyd --help
+: 1690641844:0;sudo pacman -S spotifyd
+: 1690641850:0;clear
+: 1690641852:0;exit
+: 1690642003:0;ystemctl --user status spotifyd.service
+: 1690642008:0;systemctl --user status spotifyd.service
+: 1690642036:0;systemctl --user restart spotifyd.service
+: 1690642040:0;spt
+: 1690642112:0;systemctl --user status spotifyd.service
+: 1690642148:0;where spotifyd.conf
+: 1690642151:0;where spotifyd
+: 1690642209:0;cd '/run/media/polter/New Volume/windows backup 01-01-2023'
+: 1690642275:0;cd '/home/polter/.config/spotifyd'
+: 1690642356:0;cd '/run/media/polter/New Volume/windows backup 01-01-2023'
+: 1690642359:0;cd '/home/polter/.config/spotifyd'
+: 1690642387:0;systemctl --user restart spotifyd.service
+: 1690642393:0;spt
+: 1690642623:0;sudo pacman -R spotifyd
+: 1690642644:0;yay -S spotify
+: 1690642654:0;clear
+: 1690642676:0;spt
+: 1690643180:0;spt play --name "Hi" --playlist --random
+: 1690643205:0;spt play --name "Hi" --playlist
+: 1690643244:0;spt play --name "Take Me To Church"
+: 1690643261:0;spt
+: 1690643480:0;exit
+: 1690656930:0;cd '/home/polter/Documents'
+: 1690656953:0;python ways.py
+: 1690657963:0;yay -S brave
+: 1690658795:0;sudo pacman -S vlc
+: 1690658864:0;clear
+: 1690658912:0;sudo pacman -Syy
+: 1690658923:0;clear
+: 1690658926:0;sudo pacman -S vlc
+: 1690658935:0;clear
+: 1690658949:0;sudo pacman -S brave
+: 1690658953:0;yay -S brave
+: 1690660938:0;exit
+: 1690663709:0;yay -R brave
+: 1690663714:0;clear
+: 1690663716:0;exit
+: 1690663797:0;sudo pacman -R tmux
+: 1690663807:0;clear
+: 1690663819:0;sudo pacman -R spotify-tui
+: 1690663834:0;sudo pacman -R spotifyd
+: 1690663835:0;clear
+: 1690663837:0;exit
+: 1690689772:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690690726:0;cd '/home/polter/.config/openbox-themes/themes/easy'
+: 1690695960:0;cd '/run/media/polter/New Volume/windows backup 01-01-2023'
+: 1690695962:0;cd '/home/polter/.config/openbox-themes/themes/easy'
+: 1690695962:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690695988:0;cd '/run/media/polter/New Volume/windows backup 01-01-2023'
+: 1690696941:0;cd '/home/polter/Documents'
+: 1690696955:0;python en.py
+: 1690697049:0;python de.py
+: 1690697078:0;python en.py
+: 1690697117:0;python de.py
+: 1690697125:0;python en.py
+: 1690697161:0;python de.py
+: 1690697197:0;cd '/run/media/polter/New Volume/windows backup 01-01-2023'
+: 1690697200:0;cd '/home/polter/Documents'
+: 1690697292:0;cd '/run/media/polter/New Volume/windows backup 01-01-2023/obp'
+: 1690698715:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690698837:0;wal
+: 1690698847:0;exit
+: 1690698865:0;wal wallpaper
+: 1690698872:0;wal -i wallpaper
+: 1690698947:0;cd '/home/polter/.cache/wal'
+: 1690698950:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690698952:0;cd '/home/polter/.cache/wal'
+: 1690698970:0;cd '/home/polter/.config/openbox-themes/themes/easy/polybar'
+: 1690702858:0;python
+: 1690708830:0;sudo pacman -S telegram
+: 1690708839:0;sudo pacman -S telegram-desktop
+: 1690709540:0;sudo pacman -Syy
+: 1690709610:0;sudo pacman -S telegram-desktop
+: 1690709755:0;clear
+: 1690709757:0;exit
+: 1690709891:0;cd '/run/media/polter/New Volume/windows backup 01-01-2023'
+: 1690710691:0;yay -S ani-cli-git
+: 1690711524:0;yay -S komikku
+: 1690711634:0;exit
+: 1690711936:0;clear
+: 1690712041:0;ani-cli
+: 1690713290:0;clear
+: 1690713298:0;sudo pacman -S flatpak
+: 1690713363:0;clear
+: 1690713622:0;git clone https://github.com/NyarchLinux/CatgirlDownloader.git
+: 1690713637:0;ls
+: 1690713642:0;cd CatgirlDownloader
+: 1690713646:0;ls
+: 1690713651:0;bash install.sh
+: 1690713782:0;menson.build
+: 1690713785:0;clear
+: 1690713796:0;ls
+: 1690713819:0;flatpack catgirldownloader.flatpak
+: 1690713916:0;bash install.sh
+: 1690713959:0;sudo pacman -S flatpak-builder
+: 1690713990:0;clear
+: 1690713992:0;exit
+: 1690713995:0;bash install.sh
+: 1690714041:0;exit
+: 1690714099:0;wal -i wallpaper
+: 1690714109:0;exit
+: 1690714114:0;pwd
+: 1690714294:0;cd '/home/polter/.cache/wal'
+: 1690714313:0;cd '/home/polter/.config/alacritty'
+: 1690714319:0;cd '/home/polter/.cache/wal'
+: 1690714407:0;cd '/home/polter'
+: 1690716852:0;animate
+: 1690716861:0;clear
+: 1690716869:0;ani-cli
+: 1690719144:0;exit
+: 1690726105:0;cd '/home/polter/.cache/wal'
+: 1690726171:0;cd '/run/media/polter/New Volume/windows backup 01-01-2023/cc'
+: 1690726736:0;bash visualize.sh
+: 1690726888:0;exit
+: 1690726934:0;ani-cli -H
+: 1690726964:0;ani-cli --help
+: 1690727810:0;cd '/home/polter/Documents'
+: 1690733782:0;ani-cli
+: 1690773011:0;exit
+: 1690773032:0;yay -S ani-cli
+: 1690773058:0;ani-cli
+: 1690776695:0;cd '/home/polter'
+: 1690801395:0;sudo pacman -S boxes
+: 1690801399:0;cleaer
+: 1690801436:0;clear
+: 1690801447:0;exit
+: 1690801468:0;sudo pacman -S virtual-box
+: 1690801473:0;sudo pacman -S virtualbox
